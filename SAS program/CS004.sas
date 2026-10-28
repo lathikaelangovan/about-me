@@ -3,7 +3,7 @@
 /*Case Study : 4 
  
 Project Title  : Summary of Demographic tables 
-Project code   : CCS004 
+Project code   : CS004 
 Description    : Generate a Demographics table */
 
 
