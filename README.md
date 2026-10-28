@@ -50,7 +50,7 @@ If you have only a few minutes, start here:
 | [CS007.sas](SAS%20program/CS007.sas) | Treatment summaries with `PROC TABULATE`, descriptive statistics, counts, percentages and SQL grouped summaries |
 | [CS008.sas](SAS%20program/CS008.sas) | Medication summaries with `PROC SUMMARY`, transposition, totals and `PROC REPORT` layouts |
 | [CS009.sas](SAS%20program/CS009.sas) | AE summary by treatment, SOC and PT with count-and-percentage display preparation |
-| [Graph's.sas](SAS%20program/Graph%27s.sas) | Vertical bar charts with `PROC GCHART`, month formats and patterns |
+| [Graphs.sas](SAS%20program/Graphs.sas) | Vertical bar charts with `PROC GCHART`, month formats and patterns |
 
 ### R scripts
 
