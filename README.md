@@ -64,7 +64,8 @@ If you have only a few minutes, start here:
 | [dates wrkout.R](R%20program/dates%20wrkout.R) | Date and time creation, formatting, arithmetic, sequences and loops |
 | [assignment1.R](R%20program/assignment1.R) | Indexing and subsetting vectors, matrices, lists and data frames |
 | [mario.R](R%20program/mario.R) | Console pyramid exercises using `for` and `repeat` loops (programming fundamentals) |
-
+| [adcm.R](R%20program/adcm.R) | Concomitant Medication Analysis Dataset creation |
+|[CS004.R](R%20program/CS004.R)| Demographics table Creation|
 ---
 
 ## Tools and techniques
